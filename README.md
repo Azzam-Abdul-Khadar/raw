@@ -67,3 +67,6 @@ Auth system
 Blog backend
 E-commerce backend
 Team/task management backend
+
+Since you already know MERN, a strong next step is to master authentication, schema design, and production-grade API structure.
+If you want, I can also give you a 90-day backend developer roadmap tailored to getting job-ready.
