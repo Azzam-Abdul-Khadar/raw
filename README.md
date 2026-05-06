@@ -39,3 +39,31 @@ JWT
 password hashing with bcrypt
 protected routes
 role-based access
+
+6. Real-world backend skills
+
+pagination
+filtering/search
+file uploads
+error handling
+logging
+
+7. Testing & API tools
+
+Postman
+basic API testing
+
+8. Deployment
+
+deploy API
+connect cloud database
+environment configuration
+Best project progression
+
+Build these in order:
+
+Todo API
+Auth system
+Blog backend
+E-commerce backend
+Team/task management backend
